@@ -1,0 +1,27 @@
+ Volume in drive C is TI10692000E
+ Volume Serial Number is 06D4-EFE4
+
+ Directory of C:\Users\ny_al\Desktop\Feb 2021_123\jenkins feb21
+
+02/23/2021  01:08 AM    <DIR>          .
+02/23/2021  01:08 AM    <DIR>          ..
+02/23/2021  12:56 AM                 0 cd
+02/22/2021  08:56 PM            80,797 chain linked together.png
+02/22/2021  07:51 PM            98,683 ci.png
+02/22/2021  07:58 PM           185,392 CICD.png
+02/23/2021  12:56 AM                 0 git
+02/23/2021  01:06 AM               702 HelloWorld6.class
+02/23/2021  12:45 AM               314 HelloWorld6.java
+02/23/2021  12:56 AM                 0 java
+02/23/2021  12:56 AM                 0 javac
+02/23/2021  12:24 AM           208,945 jenkins port.png
+02/23/2021  12:54 AM                 0 master
+02/23/2021  01:08 AM                 0 my.txt
+02/23/2021  12:30 AM               161 New Text Document.txt
+02/22/2021  09:48 PM           319,800 pipeline delivery1.png
+02/22/2021  09:36 PM           395,474 pipeline view1.png
+02/22/2021  09:48 PM           422,047 pipeline1.12.png
+02/22/2021  07:59 PM           175,404 pipeline1.png
+02/22/2021  08:25 PM           178,131 pipeline2.1.png
+              18 File(s)      2,065,850 bytes
+               2 Dir(s)  410,051,584,000 bytes free
